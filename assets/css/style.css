@@ -1,3 +1,8 @@
+/* ===== EXPERIENCE SECTION DARK MODE ===== */
+[data-bs-theme="dark"] #experience h2,
+[data-bs-theme="dark"] #experience .text-muted {
+  color: #222 !important;
+}
 /* ===== GLOBAL RESET ===== */
 * {
   margin: 0;
