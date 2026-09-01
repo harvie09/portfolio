@@ -1,10 +1,3 @@
-new Typed("#typed", {
-    strings: ["Frontend Developer", "UI/UX Enthusiast"],
-    typeSpeed: 80,
-    backSpeed: 40,
-    loop: true,
-});
-
 // AOS Init
 AOS.init();
 
